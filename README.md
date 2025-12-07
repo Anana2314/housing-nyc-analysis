@@ -15,6 +15,8 @@ Through sentiment analysis, word frequency visualization, and network analysis, 
 Understand how online communities emotionally respond to NYC’s housing crisis. Identify the most common themes and concerns in YouTube comments.
 Map key actors in media discourse through NER and co-mention networks. Visualize political relationships to see who shapes the conversation around housing, affordability, and gentrification.
 
+📌 [LINK TO THE PROJECT](https://github.com/Anana2314/Anana2314.github.io/blob/main/Final_project_Montanez_Ana.ipynb)
+
 📮 Contact
 
 Ana Montañez
