@@ -18,6 +18,6 @@ Map key actors in media discourse through NER and co-mention networks. Visualize
 📌 [LINK TO THE PROJECT](https://github.com/Anana2314/Anana2314.github.io/blob/main/Final_project_Montanez_Ana.ipynb)
 
 📮 Contact
-Ana Montañez
-Columbia University
+Ana Montañez|
+Columbia University|
 [LinkedIn:](https://linkedin.com/in/ana-clara-montañez)
